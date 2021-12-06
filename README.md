@@ -34,5 +34,5 @@ https://www.kaggle.com/ananthu017/emotion-detection-fer
 ## Teachable Machine
 <img width="1440" alt="Screen Shot 2021-11-23 at 4 05 47 AM" src="https://user-images.githubusercontent.com/71601985/144871026-57565f3c-4c5b-4b47-a81d-195aff6b2dac.png">
 <img width="1440" alt="Screen Shot 2021-11-23 at 4 06 11 AM" src="https://user-images.githubusercontent.com/71601985/144871051-1d293b94-4c9c-497f-b3e3-6e920aa28f06.png">
-- 충분한 학습이 일어나지 않았지만, Teachable Machine에 클래스 당 2000개가 넘는 이미지 샘플을 업로드 할 경우 빈 이미지가 학습되는 버그로 인해 데이터셋 개수를 줄여 학습 시켰다.
+- 충분한 학습이 일어나지 않았지만, Teachable Machine에 클래스 당 2000개가 넘는 이미지 샘플을 업로드 할 경우 빈 이미지가 학습되는 버그로 인해 데이터셋 개수를 줄여 학습 시켰다. <br/>
 - 체험해보기: https://teachablemachine.withgoogle.com/models/IrWqK6Ps0/
