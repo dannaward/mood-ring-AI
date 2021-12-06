@@ -6,13 +6,13 @@ const URL = './my_model/';
 
 let model, webcam, labelContainer, maxPredictions;
 const photos = [
-	'"ring_images/violet.png"',
-	'"ring_images/blue.png"',
-	'"ring_images/blue green.png"',
-	'"ring_images/green.png"',
-	'"ring_images/amber.png"',
-	'"ring_images/gray.png"',
-	'"ring_images/black.png"',
+	'ring_images/violet.png',
+	'ring_images/blue.png',
+	'ring_images/blue green.png',
+	'ring_images/green.png',
+	'ring_images/amber.png',
+	'ring_images/gray.png',
+	'ring_images/black.png',
 ];
 
 const emotions = ['happy', 'neutral', 'disgusted', 'sad', 'fearful', 'angry', 'surprise'];
@@ -102,10 +102,10 @@ async function getEmotionImage(prediction) {
 			max = parseFloat(arr[1]);
 			const selected = photos [idx];
 			console.log('selected', selected);
-			console.log('img',document.getElementById('img').src);
+			console.log('img', document.getElementById('img').src);
 			document.getElementById('img').src = selected;
 		} else{
-			document.getElementById('img').src = "green.png";
+			document.getElementById('img').src = photos[0];
 		}
 		
 		// console.log('&&&&&&&', arr);
@@ -128,5 +128,3 @@ async function isLoading() {
 
 isLoading();
 // getLandomImage();
-
-// 자기야 안녕 :)
