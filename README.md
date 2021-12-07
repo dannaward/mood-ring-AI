@@ -21,6 +21,9 @@ https://user-images.githubusercontent.com/71601985/144870867-fc9fc73d-a9d6-4924-
 https://sites.google.com/g.skku.edu/meta-x-ai-skku/main-page
 
 ![image](https://user-images.githubusercontent.com/71601985/144872690-eb7d6591-2be1-4231-8be5-ee111afbb8bd.png)
+<img src="https://user-images.githubusercontent.com/71601985/145061520-816ac1ea-aef5-4a2b-8a1e-3a7dbe095ccb.png">
+<img src="https://user-images.githubusercontent.com/71601985/145061898-ef951e84-1dbc-4c08-9921-965579be9a98.png">
+
 
 
 <br/>
